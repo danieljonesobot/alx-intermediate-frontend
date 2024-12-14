@@ -1,9 +1,11 @@
 body {
-  color: #3D3D3D;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-p {
-  color: #3D3D3D;
+div {
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 /*# sourceMappingURL=output.css.map */
